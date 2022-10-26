@@ -1,3 +1,20 @@
+/* Common */
+.header-container {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
 
+.header-logo {
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+  font-size: 30px;
+  color: white;
+}
+
+/* End */
+/* Home */
+/* End */
 
 /*# sourceMappingURL=bundle.css.map */
